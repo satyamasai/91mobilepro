@@ -1,0 +1,51 @@
+#table{
+    /* border: 2px solid red; */
+    width: 300px;
+
+}
+
+#table>tr{
+    width: 350px !important;
+    border: 1px solid rebeccapurple;
+}
+#table>tr>td{
+  
+    border: 1px solid rgb(0, 0, 0);
+
+}
+.pdf_logo{
+    width: 40px;
+    height: 50px;
+}
+
+
+@media screen and (max-width: 768px) {
+
+    table{
+    
+    
+    
+        background: rgba(44, 13, 13, 0.48);
+        /* border-radius: 16px; */
+       
+        width: 10% !important;
+        color: aquamarine;
+    }
+    tr{
+        width: 100px !important;
+        border: 1px solid rgb(65, 58, 58);
+        
+    }
+    th{
+        width: 100px !important;
+        width: 100px !important;
+        
+    }
+    td{
+        width: 100px !important;
+
+    }
+    
+
+
+}
