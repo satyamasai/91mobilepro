@@ -4,7 +4,7 @@
 
 Demo credentials : 
 <br/>
-   ## -   email- demo@gmail.com      -    password- demo-
+   ## -   email- demo@gmail.com      -    password- demo
 
 
 MERN application functionality:
